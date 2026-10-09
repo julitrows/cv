@@ -1,86 +1,131 @@
 ---
 pdf_options:
   format: a4
-  margin: 20mm 25mm
+  margin: 10mm 10mm
 ---
 
-# Marina Ferro - Senior Product Designer
+# Julio Antequera Galiano - Senior+ Software Engineer
 
-[marina.ferro@example.com](mailto:marina.ferro@example.com) | [+34 600 123 456](tel:+34600123456) | [marinaferro.design](https://marinaferro.design) | [LinkedIn](https://linkedin.com/in/marinaferro/) | [GitHub](https://github.com/marinaferro/) | Valencia, Spain
+[julio.antequera.galiano@gmail.com](mailto:julio.antequera.galiano@gmail.com) | [+34 635 951 143](tel:+34635951143) | [julitros.gitlab.io](https://julitrows.gitlab.io) | [LinkedIn](https://linkedin.com/in/julitrows/) | [GitHub](https://github.com/julitrows/) | Spanish (native), English (C1) | Sevilla, Spain
 
 ## Summary
 
-Product designer with 14+ years of experience spanning UX/UI design, front-end engineering, and product strategy, with a strong bias to action (prototypes, not decks). Led cross-functional teams across fintech and developer tools, built design systems from zero, and turned messy workflows into shippable products.
+With 15+ years of experience specializing in high-scalability systems and Ruby on Rails architecture, I focus on system architecture, database performance, Developer Experience (DX), and guiding platform evolution from startup roots to enterprise-grade environments. My core technical background spans modular monolith evolution, high-throughput API design, and performance tuning across relational and search databases.
 
-Passionate about design craft, with a strong eye for detail, simplicity, and beauty. But also a systems thinker who cares about consistency, scalability, and feasibility. Proficient in Figma, React, Storybook, and TypeScript, because shipped is better than perfect.
+Moving beyond foundational backend development, I've driven Platform Engineering and DX initiatives—including left-shift security practices and automated CI/CD pipelines. As a technical leader, I balance hands-on architectural stewardship and cross-functional alignment with continuous team mentorship to build resilient, secure, and developer-friendly ecosystems.
 
 ## Experience
 
-### Principal Product Designer - Nimbus Pay
+### Principal Engineer - RubiconMD
 
-#### Feb 2023 - Present | Remote
+#### November 2016 - May 2026 | New York, US - Remote from Seville, Spain
 
-- Leading design for the core payments dashboard used by 40,000+ merchants
-- **Cut checkout drop-off by 27%** by redesigning the onboarding flow and simplifying KYC steps
-- Tech Stack: Figma, React, TypeScript, Storybook, Cursor
+RubiconMD connects primary care providers with medical specialists to democratize expertise.
 
-### Senior Product Designer - Fintra
+Led backend engineering and platform architecture over a 9+ year tenure, guiding the core product from startup roots to its full integration into Oak Street Health and CVS Health ecosystems. Architected critical platform systems, established core engineering practices, and drove platform evolution.
 
-#### Jun 2019 - Jan 2023 | Remote
+**Platform Architecture & Systems Modernization:**
+* Co-founded and led the Platform Engineering initiative, bridging Application Engineering, Infrastructure, and Data Science teams.
+* Designed and executed application-level architecture changes to support zero-downtime infrastructure migrations into CVS Health.
+* Ensured platform resilience, high availability, and continuous compliance with strict HIPAA and HITRUST standards.
 
-- Joined as first design hire, **built the design system from scratch**, adopted across 6 product squads
-- Led the Open Banking initiative end-to-end, **shipping API integrations with 12 partner banks in under a year**
-- Shipped a fraud-detection alerts redesign **from prototype to production in 3 weeks**, owning research, design, and front-end build (TypeScript, React, D3)
-- Solo-designed and built the internal developer portal
-- Tech Stack: Figma, React, TypeScript, D3, Astro
+**Developer Experience (DX) & SDLC Optimization:**
+* Modernized CI/CD pipelines (CircleCI/GitHub Actions) and core dependencies, frictionlessly accelerating daily developer workflows.
+* Automated security and compliance reporting, saving hundreds of hours of manual audit preparation ahead of enterprise integration.
+* Established a centralized, transparent technical backlog to eliminate hidden work and align Product and Engineering priorities.
 
-### UX Lead - Bramble Studio
+**Technical Leadership & Team Mentorship:**
+* Mentored backend engineers and introduced constructive code review standards, raising overall code quality and technical maturity.
+* Cultivated an open architecture culture, empowering engineers across teams to own high-impact platform initiatives.
+* Managed cross-regional collaboration, ensuring technical and cultural alignment between US and European engineering hubs.
 
-#### Sep 2015 - May 2019 | Barcelona, Spain
+**Stack:**
+* **Core Architecture:** Ruby on Rails, GraphQL API, REST APIs, SPA Frontend (Angular), React Native
+* **Data & Storage:** PostgreSQL, OpenSearch, Redis
+* **DevOps & Cloud:** AWS, Docker, CircleCI, GitHub Actions
+* **Compliance & Security:** HIPAA, HITRUST, OWASP
 
-- **Grew the studio's design team from 2 to 12**, establishing hiring, onboarding, and critique practices
-- **Defined product direction** for 5 client SaaS products, ensuring consistency across teams
-- **Scaled a shared component library** adopted by 8 external agency partners
+### Full Stack Ruby on Rails developer - CookiesHQ
 
-### Design Lead - Forma Interactive
+#### January 2016 - July 2016 | Bristol (UK) - Remote from Seville (Spain)
 
-#### Mar 2012 - Aug 2015 | Madrid, Spain
+CookiesHQ was a web agency for which I worked on projects of different nature (startup MVPs, bespoke CRMs) in every stage of maturity (greenfield, maintenance, legacy) in direct contact with clients, and as well as technical writer for the company blog.
 
-- **Reduced project turnaround time by 30%** by integrating Agile ceremonies and cross-functional design sprints
-- Elevated the **design practice** and implemented **sustainable growth strategies**
-- Introduced **design critiques and pair design sessions**, improving team output and collaboration
+This was my first remote position for an abroad company, and was the only remote worker for the company at the time.
+
+**Key Projects & Client Deliverables:**
+* **E-Commerce & Digital Goods:** Good Sixty, Cardnest, Patternbank
+* **Healthcare & Mobility Services:** My Gap Medics, Delivery Folk, Pulsenotes
+* **Custom SaaS & Platforms:** Digestive, TORF, Visible People, Warwire
+
+**Technologies:**
+
+* **Backend:** Ruby On Rails
+* **Frontend:** Bakcbone.js, Bootstrap
+* **Databases:** PostgreSQL, MongoDB
 
 <div class="page-break"></div>
 
+### Freelance Full Stack Ruby on Rails developer
+
+#### June 2013 - May 2014 | Seville (Spain) - Hybrid
+
+Adding functionalities and maintaining already existing **Ruby on Rails** projects, develop new projects from scratch, as well as application servers maintenance and managements.
+
+**Key Clients & Project Deliverables:**
+* **[Salumedia](https://www.adherahealth.es/):** Maintenance and development of Healthcare survey systems and medical informative services
+* **Redradix:** Maintenance of the administrative platform for [Occidental Hotels](https://www.occidentalhotels.com/)
+* **[Emergya](https://www.emergya.com/es):** Ruby on Rails applications maintenance
+* **[Infromage Studios](https://www.informagestudios.com/):** Ruby on Rails applications maintenance
+
+### Full Stack Ruby on Rails Developer - Wombytes
+
+#### October 2010 - November 2011 | Seville (Spain) - On site
+
+Adding functionalities and maintaining already existing projects in **Ruby on Rails**, develop new projects from scratch, as well as server maintenance and management, and application deployments.
+
+**Key Projects & Client Deliverables:**
+* **E-Commerce:** Hummel Spain B2B Platform, Tienda RFAF, Yspoon
+* **Custom SaaS & Platforms:** CrowdSlides
+
 ## Additional Experience
 
-- **Product Designer** - Kelp Labs *Jan 2011 - Feb 2012*
-- **Visual Designer** - Estudio Marabu *Jun 2008 - Dec 2010*
-- **Junior Designer** - Punto y Coma Diseño *Sep 2006 - May 2008*
+- **Embedded Systems C++ Developer** - AERTEC *October 2010 - November 2011*
+- **Embedded Systems C++ Developer** - University of Seville's Robotics Vision and Control Group *May 2009 - October 2010*
+- **Web Developer** - Inix Consultores *July 2008 - November 2008*
+
+## Education
+
+### MsC in Computer Science & Software Engineering (Ingeniería Informática Plan 97)
+
+#### September 2002 - September 2009 | [University of Seville](https://www.informatica.us.es/) (Spain)
+
+Five year-long BsC degree later officially upgraded to a MsC per the EHEA Bologna Process.
+
+**Final Thesis:** Ubuntu-based Linux Distribution intended for children, "Guadalinex Infantil".
+
+**Memberships:**
+* [US FLOSS Users Group](https://sugus.eii.us.es/)
+* [IEEE Student Branch](https://ieeesb.us.es/)
 
 ## Projects
 
-- **[Fintra UI Kit](https://github.com/marinaferro/fintra-ui-kit)** *2022* - Open-sourced the internal component library, **adopted by 3 external fintech startups**
-- **[The Open Banking Diaries](https://marinaferro.design/blog/open-banking)** *2021* - Blog series on API-first design, **doubling newsletter signups**
-- **Fraud Pattern Visualizer** *2020* - Internal tool for visualizing suspicious transaction clusters, **reducing investigation time by 40%**
-- **Merchant Onboarding Wizard** *2019* - Redesigned multi-step KYC flow, **cutting support tickets by 35%**
-- **SVG Icon Compressor** *2017* - Build-time optimizer for icon exports, averaging a **file size improvement of more than 45%**
+- **[Injectable Ruby Gem](https://github.com/injectablerb/injectable)** - Open sourced an internal dependency injection library - Actively maintained since 2018
+- **TODO:** Añadir proyectos internos de RMD?
+
+## Public Speaking & Writing
+
+- **Los Lunes Agiles** - Three talks ([grouped slides](https://www.slideshare.net/slideshow/ciclo-los-lunes-giles-22763282/22763282#20)) about agile methodologies in the real world - Universidad de Sevilla - 2013
+- Sometimes I write about technology in my [blog](https://julitrows.gitlab.io/blog/)
 
 ## Skills
 
-- **Design Skills:** User Experience (UX), Interaction Design, Wireframing, User Research, Design Systems, Accessibility, Rapid Prototyping, Design Engineering, Design Tokens, UX Strategy, Usability Testing, Product Thinking
-- **Design Tools:** Figma, Sketch, Miro, Penpot
-- **Development**: React, TypeScript, Storybook, Astro, D3, HTML/CSS, Git
-
-## Public Speaking
-
-- **"Designing for Trust in Fintech"** - Config Meetup *(2022, Barcelona)*
-- **"Open Banking, Open Design"** - API Days *(2021, remote)*
-- **"Building Design Systems That Survive Contact with Reality"** - UXSpain *(2019, Valencia)*
-- **"Prototyping at the Speed of Thought"** - Design Tools Hackathon *(2017, Madrid)*
+- **Architecture & Backend:** Gang of Four patterns, API Design (GraphQL, OpenAPI), Relational Databases (PostgreSQL, MySQL), Search Engines (OpenSearch), Caching (Redis), Ruby on Rails, Ruby.
+- **Platform & DevOps:** CI/CD (CircleCI, GitHub Actions), Containerization (Docker), AWS, Observability & Monitoring (Datadog, Sentry)
+- **Leadership & Governance:** SDLC Optimization, Technical Mentorship, Backlog Governance, Agile Practices & Delivery.
 
 ## Community, Mentorship & Open Source
 
-- **Fintra Design Guild** *(2019 - 2023)*: Built and ran an internal cross-company **design community**, growing to **300+ members**
-- **Mentor at ADPList** *(2021 - Present)*: Supporting emerging designers in career growth, mentoring **15+ designers**
-- **Open Source Contributions**: Maintainer of two open-source Figma plugins, frequent contributor to design-tooling projects, with more than **80 PRs merged over 40+ projects**
+- **Chiquito de la Calzada Plugin** - [Faker Gem](https://github.com/faker-ruby/faker/pull/1940) - February 2020
+- **Open Source Contributions** - Other contributions for OSS projects used in the daily job: bug reports, reproduction projects, PRs for fixes, etc.
+- **Volunteer Helpdesk assistant** - [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) - June to July 2016
