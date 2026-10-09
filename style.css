@@ -8,7 +8,7 @@
   --subtle: #999;
   --subtler: #ccc;
 
-  --bip: 3pt;
+  --bip: 2.5pt;
   --xxs: calc(var(--bip) * 0.5);
   --xs: var(--bip);
   --s: calc(var(--bip) * 2);
