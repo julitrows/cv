@@ -4,7 +4,7 @@ A small tool to generate nice, ATS-compliant PDF files from your Markdown CV.
 
 Works entirely online so you can make small adjustments to your CV from your mobile before applying to your dream job from the beach.
 
-See [an example PDF of the output](https://github.com/bomberstudios/cv.md/blob/main/history/cv-2026-07-09T16-38-37.pdf).
+See [an example PDF of the output](https://github.com/bomberstudios/cv.md/blob/main/history/cv-2026-10-09T16-47-24.pdf).
 
 ## Usage
 

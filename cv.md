@@ -10,9 +10,15 @@ pdf_options:
 
 ## Summary
 
-With 15+ years of experience specializing in high-scalability systems and Ruby on Rails architecture, I focus on system architecture, database performance, Developer Experience (DX), and guiding platform evolution from startup roots to enterprise-grade environments. My core technical background spans modular monolith evolution, high-throughput API design, and performance tuning across relational and search databases.
+With 15+ years of experience specializing in high-scalability systems and Ruby on Rails architecture, I focus on system architecture, database performance, Developer Experience, and guiding platform evolution from startup roots to enterprise-grade environments. My core technical background spans modular monolith evolution, high-throughput API design, and performance tuning across relational and search databases.
 
-Moving beyond foundational backend development, I've driven Platform Engineering and DX initiatives—including left-shift security practices and automated CI/CD pipelines. As a technical leader, I balance hands-on architectural stewardship and cross-functional alignment with continuous team mentorship to build resilient, secure, and developer-friendly ecosystems.
+Moving beyond foundational backend development, I've driven Platform Engineering and DevXP initiatives, including left-shift security practices and optimization of automated CI/CD pipelines. As a technical leader, I balance hands-on architectural stewardship and cross-functional alignment with continuous team mentorship to build resilient, secure, and developer-friendly ecosystems.
+
+## Skills
+
+- **Architecture & Backend:** Gang of Four patterns, API Design (GraphQL, OpenAPI), Relational Databases (PostgreSQL, MySQL), Search Engines (OpenSearch), Caching (Redis), Ruby on Rails, Ruby.
+- **Platform & DevOps:** CI/CD (CircleCI, GitHub Actions), Containerization (Docker), AWS, Observability & Monitoring (Datadog, Sentry)
+- **Leadership & Governance:** SDLC Optimization, Technical Mentorship, Backlog Governance, Agile Practices & Delivery.
 
 ## Experience
 
@@ -117,12 +123,6 @@ Five year-long BsC degree later officially upgraded to a MsC per the EHEA Bologn
 
 - **Los Lunes Agiles** - Three talks ([grouped slides](https://www.slideshare.net/slideshow/ciclo-los-lunes-giles-22763282/22763282#20)) about agile methodologies in the real world - Universidad de Sevilla - 2013
 - Sometimes I write about technology in my [blog](https://julitrows.gitlab.io/blog/)
-
-## Skills
-
-- **Architecture & Backend:** Gang of Four patterns, API Design (GraphQL, OpenAPI), Relational Databases (PostgreSQL, MySQL), Search Engines (OpenSearch), Caching (Redis), Ruby on Rails, Ruby.
-- **Platform & DevOps:** CI/CD (CircleCI, GitHub Actions), Containerization (Docker), AWS, Observability & Monitoring (Datadog, Sentry)
-- **Leadership & Governance:** SDLC Optimization, Technical Mentorship, Backlog Governance, Agile Practices & Delivery.
 
 ## Community, Mentorship & Open Source
 
